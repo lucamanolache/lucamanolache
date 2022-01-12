@@ -19,4 +19,4 @@ I enjoy solving algorithmic problems using **Java**.
 
 #### Languages and Tools
 
-![Luca's GitHub stats](https://github-readme-stats.vercel.app/api?notlucam=anuraghazra&count_private=true)
+![Luca's GitHub stats](https://github-readme-stats.vercel.app/api?username=notlucam&count_private=true)
