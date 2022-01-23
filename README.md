@@ -4,6 +4,16 @@ Welcome! I am a 11th grader attending Palo Alto High School.
 I love creating websites using **React** and coding in **Rust**.
 I enjoy solving algorithmic problems using **Java**.
 
+<!-- BADGES -->
+<div align="center">
+    <p></p>
+    <a href="https://github.com/NotLucaM?tab=followers">
+        <img src="https://img.shields.io/github/followers/notlucam?color=%238dc776&labelColor=%23101415&style=for-the-badge">
+    </a>
+    <img src="https://img.shields.io/github/stars/notlucam?color=%23f65b5b&labelColor=%23101415&style=for-the-badge">
+</div>
+<p/>
+
 -----------------
 
 #### About Me
