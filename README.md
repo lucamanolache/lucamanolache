@@ -24,6 +24,7 @@ I enjoy solving algorithmic problems using **Java**.
 
 #### Goals
 - Learn machine learning and AI using Python 
+- Learn algorithmic trading
 - Learn programming in Go
 - Learn about different robotics elements such as Kalman filters
 
