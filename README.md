@@ -1,6 +1,6 @@
 ### Hi there, I'm Luca Manolache 👋
 
-Welcome! I am a 11th grader attending Palo Alto High School.
+Welcome! I am a 12th grader attending Palo Alto High School.
 I love creating websites using **React** and coding in **Rust**.
 I enjoy solving algorithmic problems using **Java**.
 
