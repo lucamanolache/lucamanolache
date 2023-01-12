@@ -17,16 +17,9 @@ I enjoy solving algorithmic problems using **Java**.
 -----------------
 
 #### About Me
-- 🔭 I’m currently working on Paly Robotics
-- 🌱 I’m currently learning AI and Rust
-- 💬 Ask me about anything Rust or Robotics
+- 🔭 I’m currently working at Paly Robotics
+- 💬 Ask me about anything Rust, Robotics, or AI
 - 📫 How to reach me: Email: luca1230@gmail.com
-
-#### Goals
-- Learn machine learning and AI using Python 
-- Learn algorithmic trading
-- Learn programming in Go
-- Learn about different robotics elements such as Kalman filters
 
 #### Languages and Tools
 
