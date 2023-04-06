@@ -1,6 +1,6 @@
 ### Hi there, I'm Luca Manolache 👋
 
-Welcome! I am a 12th grader attending Palo Alto High School.
+Welcome! I am an incoming freshman studying EECS at UC Berkeley.
 I love creating websites using **React** and coding in **Rust**.
 I enjoy solving algorithmic problems using **Java**.
 
@@ -19,7 +19,7 @@ I enjoy solving algorithmic problems using **Java**.
 #### About Me
 - 🔭 I’m currently working at Paly Robotics
 - 💬 Ask me about anything Rust, Robotics, or AI
-- 📫 How to reach me: Email: luca1230@gmail.com
+- 📫 How to reach me: Email: luca1230@gmail.com, luca.manolache@berkeley.edu
 
 #### Languages and Tools
 
