@@ -20,7 +20,3 @@ I enjoy solving algorithmic problems using **Java**.
 - 🔭 I’m currently working at Paly Robotics
 - 💬 Ask me about anything Rust, Robotics, or AI
 - 📫 How to reach me: Email: luca1230@gmail.com, luca.manolache@berkeley.edu
-
-#### Languages and Tools
-
-![Luca's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucamanolache&count_private=true)
