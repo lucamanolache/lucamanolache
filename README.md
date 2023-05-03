@@ -8,9 +8,9 @@ I enjoy solving algorithmic problems using **Java**.
 <div align="center">
     <p></p>
     <a href="https://github.com/NotLucaM?tab=followers">
-        <img src="https://img.shields.io/github/followers/notlucam?color=%238dc776&labelColor=%23101415&style=for-the-badge">
+        <img src="https://img.shields.io/github/followers/lucamanolache?color=%238dc776&labelColor=%23101415&style=for-the-badge">
     </a>
-    <img src="https://img.shields.io/github/stars/notlucam?color=%23f65b5b&labelColor=%23101415&style=for-the-badge">
+    <img src="https://img.shields.io/github/stars/lucamanolache?color=%23f65b5b&labelColor=%23101415&style=for-the-badge">
 </div>
 <p/>
 
